@@ -14,7 +14,7 @@ Please insert change log into "Next Release" ONLY.
 
 - Parity between evals and Simulator on signature, passing credentials.
 
-- Reduced chance of NaN in GPT based evaluators.
+- Reduced chances of NaNs in GPT based evaluators.
 
 ## 0.0.1
 - Introduced package
